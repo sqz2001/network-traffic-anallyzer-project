@@ -1,0 +1,1 @@
+#this is a basic tool that reads a Wireshark packet capture (PCAP) file and organizes the network data using linked lists and hash tables. the tool counts the number of packets per IP address and identifies the most common protocols, as well as the smallest and largest packet size
